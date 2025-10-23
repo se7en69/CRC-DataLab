@@ -125,7 +125,7 @@ if page == "Home":
     left_col, right_col = st.columns(2)
 
     # Display logo
-    img = Image.open("logo.jpg")  
+    img = Image.open("logo.png")  
     left_col.image(img, width=400)  
 
     # Display the title and description on the right
