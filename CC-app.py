@@ -78,7 +78,7 @@ st.sidebar.write(
 # Database-Related Links
 database_link_dict = {
         "Research Paper": "https://example.com/cancer-research-paper",
-        "GitHub Page": "https://github.com/your-repo/geneexplorer",
+        "GitHub Page": "https://github.com/se7en69/CRC-DataLab",
     }
 st.sidebar.markdown("## Database-Related Links")
 for link_text, link_url in database_link_dict.items():
@@ -197,7 +197,7 @@ if page == "Home":
     right_info_col.markdown(
         """
         ### Funding
-        -No speciﬁc funding was used to build this tool.
+        No speciﬁc funding was used to build this tool.
          """
     )
 
