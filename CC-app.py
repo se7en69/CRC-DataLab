@@ -23,7 +23,7 @@ from lifelines import KaplanMeierFitter, CoxPHFitter
 
 # configure tool page 
 st.set_page_config(
-    page_title="GeneExplorer",
+    page_title="CRC-DataLab",
     page_icon="🧬",
     layout="wide", 
 )
@@ -197,9 +197,7 @@ if page == "Home":
     right_info_col.markdown(
         """
         ### Funding
-
-        - Your Funding Source 1
-        - Your Funding Source 2
+        -No speciﬁc funding was used to build this tool.
          """
     )
 
@@ -662,6 +660,7 @@ elif page == "Text Mining for Gene Insights":
             st.exception(e)
     else:
         st.warning("Please select or type a gene name to extract insights.")
+
 # Survival Analysis Page
 elif page == "Survival Analysis":
     st.title("Survival Analysis")
