@@ -185,7 +185,7 @@ if page == "Home":
         ### Authors
         Please feel free to contact us with any issues, comments, or questions.
 
-        ##### Abdul Rehman Ikram [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40YourHandle)](https://twitter.com/abdul_se7en)
+        ##### Abdul Rehman Ikram [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40abdul_se7en)](https://twitter.com/abdul_se7en)
 
         - Email:  <hanzo7n@gmail.com>
         - GitHub: https://github.com/se7en69
